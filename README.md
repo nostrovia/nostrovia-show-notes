@@ -16,5 +16,6 @@ I'm bitkarrot and this is gsovereignty.
 # Based Nostr quote of the week. 
 <insert text here>
 
-
 # outro
+Okay that wraps up what we have for today.
+Til next time, stay nostrich!
