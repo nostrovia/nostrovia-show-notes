@@ -1,24 +1,32 @@
 # nostrovia-notes
 talking points and notes for each podcast - these are prompts to make every recording flow a bit easier and to stay consistent.
 
-# intro
+### intro
 
-welcome to nostrovia, where we bring you the most interesting projects happening on nostr. 
-I'm bitkarrot and this is gsovereignty.
+"Welcome to nostrovia, where we bring you the most interesting projects happening on nostr. 
+I'm bitkarrot and this is gsovereignty."
 
-# new and notable
-<insert text here>
+### new and notable
 
-# Projects of the week
-<insert text here>
+-insert talking points here
 
-# Guest Intro (if any) 
+### Projects of the week
+- Talk about several interesting projects this weke. 
 
-# Wrap up 
+### Guest Intro (if any) 
 
-# Based Nostr quote of the week. 
-<insert text here>
+- intro guest
+- talk about their project
+- how did they get into nostr
+- what's next? 
 
-# outro
-Okay that wraps up what we have for today.
-Til next time, stay nostrich!
+
+### Guest Wrap up 
+- insert text here
+
+### Notable Nostr quote of the week. 
+- insert text here
+
+### outro
+
+- Okay that wraps up what we have for today. Til next time, stay nostrich!
