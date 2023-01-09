@@ -1,6 +1,5 @@
 # nostrovia-notes
-talking points and notes for each podcast 
-- i need these prompts to make it consistent.
+talking points and notes for each podcast - these are prompts to make every recording flow a bit easier and to stay consistent.
 
 # intro
 
@@ -12,6 +11,10 @@ I'm bitkarrot and this is gsovereignty.
 
 # Projects of the week
 <insert text here>
+
+# Guest Intro (if any) 
+
+# Wrap up 
 
 # Based Nostr quote of the week. 
 <insert text here>
