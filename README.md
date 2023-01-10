@@ -1,4 +1,4 @@
-# nostrovia-notes
+# nostrovia-notes - This README is a template
 talking points and notes for each podcast - these are prompts to make every recording flow a bit easier and to stay consistent.
 
 ### intro
