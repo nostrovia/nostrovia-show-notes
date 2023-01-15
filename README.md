@@ -3,7 +3,7 @@
 ## Show Notes
 
 - 7 January 2023 - Gsovereignty and Bitkarrot talk about Nostr and starting this podcast
-- [14 January 2023](https://github.com/nostrovia/nostrovia-notes/blob/main/14-JAN-2023.md) - with @cameri and @jakany
+- [14 January 2023](https://github.com/nostrovia/nostrovia-notes/blob/main/14-JAN-2023.md) - with @cameri and @jacany
 
 ## About
 
